@@ -1,0 +1,7 @@
+{
+    "SourceFolder"      : "C:\\TestRun\\Source",
+    "DestinationFolder" : "C:\\TestRun\\Destination",
+    "BaselineFolder"    : "C:\\TestRun\\Baseline",
+    "LogFolder"         : "C:\\TestRun\\Logs",
+    "ContentMode"       : false
+}
